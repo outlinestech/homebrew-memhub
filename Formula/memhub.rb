@@ -5,7 +5,7 @@ class Memhub < Formula
 
   on_macos do
     url "https://github.com/outlinestech/homebrew-memhub/releases/download/v0.1.0/memhub-macos"
-    sha256 "d60842498fd429effe669495ba65644037b2f7932d98d0c96d56bc929faf9202"
+    sha256 "d7a2f3b515378517580c19d4347ef0a143638b008b4e0fe61fbb9fce05d8fcc3"
   end
 
   on_linux do
