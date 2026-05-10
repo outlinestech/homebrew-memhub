@@ -1,6 +1,6 @@
 class Memhub < Formula
   desc "Persistent memory layer for AI tools — save and search from your terminal"
-  homepage "https://memhub.dev"
+  homepage "https://memhub-dashboard.vercel.app/"
   version "0.1.0"
 
   on_macos do
