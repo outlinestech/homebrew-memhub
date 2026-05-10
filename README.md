@@ -4,7 +4,7 @@ Homebrew tap for the [MemHub CLI](https://github.com/outlinestech/memhub).
 
 ## Install
 
-    brew install memhub/memhub/memhub
+    brew install outlinestech/memhub/memhub
 
 ## First-time setup
 
